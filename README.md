@@ -7,4 +7,4 @@
      
  4. Indexpath should be the absolute path of the WIKIHOW index.
  5. The format of the query should be word1_word2_word3. For example if the query is "Roast Chicken", then the argument should be "Roast_Chicken"
- 6. The API will return list of task names related to the query.
+ 6. The command will return a list of task names related to the query.
